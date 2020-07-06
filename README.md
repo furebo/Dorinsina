@@ -1,1 +1,1 @@
-Simple web for Dorinsina Ltd
+Simple web for Dorinsina Ltd.
