@@ -202,6 +202,7 @@
 					<div class="latest_post">Ubworozi bw'inkoko</div>
 					<div class="latest_post">Ubuhinzi bw'ibihingwa ngandurarugo</div>
 					
+				
 				</div>
 
 				<div id="news_letter">
